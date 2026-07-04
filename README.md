@@ -40,7 +40,7 @@ Para gerenciar os dados e acessar o painel administrativo:
 - `templates/home/`: Arquivos HTML do frontend com componentes dinâmicos do Django e Tailwind CSS[cite: 1].
 
 
-<img width="1600" height="839" alt="123" src="https://github.com/user-attachments/assets/3059298e-4d6f-469f-87dc-28c6c0eab618" />
+
 <img width="1600" height="774" alt="123123" src="https://github.com/user-attachments/assets/89d4510d-0160-45c4-91a7-8b92974d70ba" />
 
 
